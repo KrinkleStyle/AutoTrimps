@@ -1,13 +1,13 @@
 // ==UserScript==
-// @name         AutoTrimps-Zek
-// @version      1.0-Zek
-// @namespace    https://Zorn192.github.io/AutoTrimps
-// @updateURL    https://Zorn192.github.io/AutoTrimps/.user.js
+// @name         AutoTrimps-KrinkleStyle
+// @version      1.0-KrinkleStyle
+// @namespace    https://KrinkleStyle.github.io/AutoTrimps
+// @updateURL    https://KrinkleStyle.github.io/AutoTrimps/.user.js
 // @description  Automate all the trimps!
 // @author       zininzinin, spindrjr, Ishkaru, genBTC, Zeker0
 // @include      *trimps.github.io*
 // @include      *kongregate.com/games/GreenSatellite/trimps
-// @connect      *Zorn192.github.io/AutoTrimps*
+// @connect      *KrinkleStyle.github.io/AutoTrimps*
 // @connect      *trimps.github.io*
 // @connect      self
 // @grant        GM_xmlhttpRequest 
