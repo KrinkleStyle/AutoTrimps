@@ -14,9 +14,9 @@
 // ==/UserScript==
 
 var script = document.createElement('script');
-script.id = 'AutoTrimps-Zek';
+script.id = 'AutoTrimps-KrinkleStyle';
 //This can be edited to point to your own Github Repository URL.
-script.src = 'https://Zorn192.github.io/AutoTrimps/AutoTrimps2.js';
+script.src = 'https://KrinkleStyle.github.io/AutoTrimps/AutoTrimps2.js';
 //script.setAttribute('crossorigin',"use-credentials");
 script.setAttribute('crossorigin',"anonymous");
 document.head.appendChild(script);
